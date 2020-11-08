@@ -1,0 +1,22 @@
+[
+    {  
+         "id": 1,
+        "name": "All",
+        "value": "All"
+    },
+    {  
+         "id": 2,
+        "name": "breakfast",
+        "value": "breakfast"
+    },
+    {  
+         "id": 3,
+        "name": "lunch",
+        "value": "lunch"
+    },
+    {  
+         "id": 4,
+        "name": "shakes",
+        "value": "shakes"
+    }
+]
